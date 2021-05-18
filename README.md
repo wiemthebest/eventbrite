@@ -26,5 +26,9 @@ $ rails db:migrate
 ```
 
 ```shell
+$ rails db:seed
+```
+
+```shell
 $ rails server
 ```
